@@ -17,7 +17,7 @@ Download Google Chrome [here](https://www.google.com/intl/pt-BR/chrome/)
 
 Clone the project with Git Bash
 ```bash
-git clone https://github.com/Wilberhg/bot-ibge-selenium.git
+git clone https://github.com/Wilberhg/bot-selenium-uipath.git
 ```
 
 or
